@@ -37,7 +37,7 @@ height = ""
 [[item]]
   title = "Forskning ved Sørlandet sykehus"
   content = "For å lese mer om forskning ved Sørlandet sykehus, se under."
-  align = "cener"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
@@ -52,7 +52,7 @@ height = ""
 [[item]]
   title = "Spinnville føelser"
   content = "For å se vårt nylig lanserte prosjekt, spinnville følelser, se under."
-  align = "right"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
