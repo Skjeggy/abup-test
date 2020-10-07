@@ -15,7 +15,7 @@ education:
 email: thomasbjerregaardbertelsen@gmail.com
 superuser: true
 user_groups:
-  - ""
+  - Researcher
 ---
 <!--StartFragment-->
 
