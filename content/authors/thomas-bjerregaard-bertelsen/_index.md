@@ -1,7 +1,7 @@
 ---
 title: " Thomas Bjerregaard Bertelsen"
 role: Researcher of Awesomeness, R afficinado.
-avatar_filename: avatar
+avatar_filename: ""
 bio: Den EGENTLIGE verten.
 interests:
   - Bayesiansk statistics
