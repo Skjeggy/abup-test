@@ -3,8 +3,19 @@ title: " Thomas Bjerregaard Bertelsen"
 role: Researcher
 avatar_filename: avatar
 bio: Den EGENTLIGE verten.
+interests:
+  - Bayesiansk statistics
+  - R
+  - Anxiety
+organizations: []
+education:
+  courses:
+    - course: Livets skole
+      institution: Ålborgs gater
 email: thomasbjerregaardbertelsen@gmail.com
 superuser: true
+user_groups:
+  - ""
 ---
 <!--StartFragment-->
 
