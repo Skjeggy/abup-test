@@ -33,6 +33,12 @@
   url = "http://tv.abup.no/"
   weight = 80
 
+[[main]]
+  name = "Spinnville følelser"
+  url = "https://spinnvillefolelser.abup.no/"
+  weight = 90
+
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
