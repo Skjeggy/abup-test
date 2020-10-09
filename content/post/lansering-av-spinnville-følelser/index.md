@@ -11,7 +11,7 @@ tags:
 categories:
   - ""
 image:
-  filename: logo-fixed.png
+  filename: spinnvill.jpg
   focal_point: Smart
   preview_only: false
 ---
