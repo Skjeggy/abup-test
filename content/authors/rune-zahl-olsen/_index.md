@@ -1,7 +1,11 @@
 ---
 title: Rune Zahl-Olsen
 role: "Researcher, Phd. "
-avatar_filename: ""
+avatar_filename: rune-zahl-olsen.jpg
+interests:
+  - Familievold
+  - R
+  - Emosjonsfokusert terapi
 superuser: false
 user_groups:
   - Researchers
