@@ -13,6 +13,8 @@ Dette er en testside som utvikles for abup kristiansand.
 - [ ] Finne en løsning for å kunne legge ut passordbeskyttede dokumenter/filer/mm. (ser man f.eks. kan bruke "CV" fane øverst til å legge ut pdf/word dokumenter)
 - [ ] Ta stilling til om vi skal fortsette å bruke abup.no domenet på sikt? I så fall hvordan?
 - [ ] Finne ut hvilke bilder som skal brukes fra abup.no inn i den nye siden, og i så fall hvordan?
+  - [ ] forsøkte bilde på ene slideren.
 - [ ] Sette opp abup.tv, spinnville følelser, mm som eksterne prosjekter ? 
+  - [x] satt opp abup.tv som link i menyen.
 - [ ] Kan være aktuelt å lage en "widget page" (https://sourcethemes.com/academic/docs/managing-content/#create-a-widget-page) om vi trenger ekstra sider med ekstra stæsh.
 - [ ] Content - legge inn forskere, publikasjoner, posts, mm. 
