@@ -1,7 +1,7 @@
 ---
 title: Rune Zahl-Olsen
 role: "Researcher, Phd. "
-avatar_filename: rune-zahl-olsen.jpg
+avatar_filename: avatar.jpg
 interests:
   - Familievold
   - R
