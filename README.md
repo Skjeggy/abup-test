@@ -13,6 +13,7 @@ Dette er en testside som utvikles for abup kristiansand.
   - [x] Kan legges ut via file manager på abup.no 
   - [ ] Andre bedre løsninger ? 
 
+- [ ] Finne ut hvordan man kan legge til publications. 
 - [ ] Finne en løsning for en "about" øverst under slider. Kort ipsum lorem tekst her.
 - [ ] Ta stilling til om vi skal fortsette å bruke abup.no domenet på sikt? I så fall hvordan?
 - [ ] Finne ut hvilke bilder som skal brukes fra abup.no inn i den nye siden, og i så fall hvordan?
