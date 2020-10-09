@@ -29,7 +29,7 @@
   weight = 60
 
 [[main]]
-  name = "ABUP.TV"
+  name = "abup tv"
   url = "http://tv.abup.no/"
   weight = 80
 
@@ -38,6 +38,10 @@
   url = "https://spinnvillefolelser.abup.no/"
   weight = 90
 
+[[main]]
+  name = "Friluftsterapi"
+  url = "https://www.friluftsterapi.com/"
+  weight = 95
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
