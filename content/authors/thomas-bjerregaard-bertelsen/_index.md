@@ -11,7 +11,7 @@ organizations: []
 education:
   courses:
     - course: Livets skole
-      institution: Ålborgs gater
+      institution: Aalborgs gater
 email: thomasbjerregaardbertelsen@gmail.com
 superuser: true
 user_groups:
