@@ -12,3 +12,13 @@ header:
 Dette er en test.
 
 CRISTIN test:
+
+{{ $dataJ := getJSON "https://api.cristin.no/" }}
+GET PERSONS/{816061}/RESULTS
+[
+    {
+		"year_published": "2018",
+		},
+	...
+]
+
