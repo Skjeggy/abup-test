@@ -19,5 +19,3 @@ Vi vil med glede meddele at Spinnville følelser lanseres 20. oktober.
 
 Du kan teste nettsiden her: [spinnvillefolelser.abup.no](spinnvillefolelser.abup.no)
 <ul>
-{{ $dataJ := getJSON "https://api.cristin.no/v2/persons/29860/results" }}
-{{ index $r number}}
