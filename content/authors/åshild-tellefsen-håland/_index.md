@@ -12,13 +12,3 @@ superuser: false
 user_groups:
   - Researchers
 ---
-
-<ul>
-  {{ $urlPre := "https://api.cristin.no" }}
-  {{ $gistJ := getJSON $urlPre "/v2/persons/29860/results" }}
-  {{ range first 5 $gistJ }}
-    {{ if .category }}
-      <li><a href="{{ .html_url }}" target="_blank">{{ .category }}</a></li>
-    {{ end }}
-  {{ end }}
-</ul>
