@@ -12,4 +12,6 @@ superuser: false
 user_groups:
   - Researchers
 ---
-[CRISTIN](https://app.cristin.no/persons/show.jsf?id=29860)
+
+{{ $dataJ := getJSON "https://api.cristin.no/v2/persons/29860/results" }}
+
