@@ -1,0 +1,1126 @@
+[ {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Journal of the American Academy of Child and Adolescent Psychiatry"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1809305/contributors"
+    },
+    "cristin_result_id" : "1809305",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "http://hdl.handle.net/10852/78259"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1016/j.jaac.2019.12.003"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Effectiveness of brief and standard school-based\r\ncognitive-behavioral interventions for adolescents with anxiety: A randomized noninferiority study"
+    },
+    "year_published" : "2020",
+    "url" : "https://api.cristin.no/v2/results/1809305",
+    "journal" : {
+      "name" : "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "publisher" : {
+        "name" : "Elsevier",
+        "url" : "http://www.elsevier.com/"
+      }
+    },
+    "pages" : {
+      "from" : "552",
+      "to" : "564"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Scandinavian Psychologist"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1795603/contributors"
+    },
+    "cristin_result_id" : "1795603",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "http://hdl.handle.net/11250/2643361"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.15714/scandpsychol.6.e12"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Where did my OCD come from? A qualitative exploratory study"
+    },
+    "year_published" : "2019",
+    "url" : "https://api.cristin.no/v2/results/1795603",
+    "journal" : {
+      "name" : "Scandinavian Psychologist"
+    },
+    "pages" : {
+      "from" : "1",
+      "to" : "24"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Family Process"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1766202/contributors"
+    },
+    "cristin_result_id" : "1766202",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/doi:10.1111/famp.12485."
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Feedback in couple and family therapy: A randomized clinical trial"
+    },
+    "year_published" : "2019",
+    "url" : "https://api.cristin.no/v2/results/1766202",
+    "journal" : {
+      "name" : "Family Process",
+      "publisher" : {
+        "name" : "John Wiley & Sons",
+        "url" : "https://www.wiley.com/en-no"
+      }
+    },
+    "pages" : {
+      "from" : "36",
+      "to" : "51"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Frontiers in Psychology"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1755795/contributors"
+    },
+    "cristin_result_id" : "1755795",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "http://hdl.handle.net/11250/2635939"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.3389/fpsyg.2019.02847"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Physical couple and family violence among clients seeking therapy: identifiers and predictors"
+    },
+    "year_published" : "2019",
+    "url" : "https://api.cristin.no/v2/results/1755795",
+    "journal" : {
+      "name" : "Frontiers in Psychology",
+      "publisher" : {
+        "name" : "Frontiers",
+        "url" : "https://www.frontiersin.org/about/research-topics"
+      }
+    },
+    "pages" : {
+      "from" : "1",
+      "to" : "11"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "BMC Psychiatry"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1742039/contributors"
+    },
+    "cristin_result_id" : "1742039",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "http://hdl.handle.net/11250/2641653"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1186/s12888-019-2285-2"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Early maladaptive schemas impact on long-term outcome in patients treated with group behavioral therapy for obsessive-compulsive disorder"
+    },
+    "year_published" : "2019",
+    "url" : "https://api.cristin.no/v2/results/1742039",
+    "journal" : {
+      "name" : "BMC Psychiatry",
+      "publisher" : {
+        "name" : "BioMed Central (BMC)",
+        "url" : "http://www.biomedcentral.com/"
+      }
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Journal of Family Psychotherapy"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1739848/contributors"
+    },
+    "cristin_result_id" : "1739848",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "http://hdl.handle.net/10852/77196"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1080/08975353.2019.1631027"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Present in Daily Life: Obsessive Compulsive Disorder and Its Impact on Family Life from the Partner's Perspective. A Focus Group Study"
+    },
+    "year_published" : "2019",
+    "url" : "https://api.cristin.no/v2/results/1739848",
+    "journal" : {
+      "name" : "Journal of Family Psychotherapy",
+      "publisher" : {
+        "name" : "Routledge",
+        "url" : "https://www.routledge.com/"
+      }
+    },
+    "pages" : {
+      "from" : "185",
+      "to" : "203"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Journal of Family Therapy"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1739836/contributors"
+    },
+    "cristin_result_id" : "1739836",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "https://hdl.handle.net/11250/2648525"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1111/1467-6427.12283"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Change in work functioning from pre- to post-treatment in feedback-informed Couple and Family Therapy in Norway "
+    },
+    "year_published" : "2019",
+    "url" : "https://api.cristin.no/v2/results/1739836",
+    "journal" : {
+      "name" : "Journal of Family Therapy",
+      "publisher" : {
+        "name" : "John Wiley & Sons",
+        "url" : "https://www.wiley.com/en-no"
+      }
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "European Journal for Person Centered Healthcare"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1549513/contributors"
+    },
+    "cristin_result_id" : "1549513",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/http://dx.doi.org/10.5750/ejpch.v5i1.1209"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Self-Management of Obsessive-Compulsive Disorder in the long-term after therapy - a focus group interview"
+    },
+    "year_published" : "2017",
+    "url" : "https://api.cristin.no/v2/results/1549513",
+    "journal" : {
+      "name" : "European Journal for Person Centered Healthcare"
+    },
+    "pages" : {
+      "from" : "64",
+      "to" : "74"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Journal of Family Psychotherapy"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1549511/contributors"
+    },
+    "cristin_result_id" : "1549511",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1080/08975353.2017.1291239"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Obsessive-compulsive disorder’s impact on partner relationships: a qualitative study"
+    },
+    "year_published" : "2017",
+    "url" : "https://api.cristin.no/v2/results/1549511",
+    "journal" : {
+      "name" : "Journal of Family Psychotherapy",
+      "publisher" : {
+        "name" : "Routledge",
+        "url" : "https://www.routledge.com/"
+      }
+    },
+    "pages" : {
+      "from" : "205",
+      "to" : "221"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Child and Adolescent Psychiatry and Mental Health (CAPMH)"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1494293/contributors"
+    },
+    "cristin_result_id" : "1494293",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "http://hdl.handle.net/1956/17563"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1186/s13034-017-0173-4"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Quality of life in anxious adolescents"
+    },
+    "year_published" : "2017",
+    "url" : "https://api.cristin.no/v2/results/1494293",
+    "journal" : {
+      "name" : "Child and Adolescent Psychiatry and Mental Health (CAPMH)",
+      "publisher" : {
+        "name" : "BioMed Central (BMC)",
+        "url" : "http://www.biomedcentral.com/"
+      }
+    },
+    "pages" : {
+      "from" : "1",
+      "to" : "11"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Journal of Obsessive-Compulsive and Related Disorders"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1483500/contributors"
+    },
+    "cristin_result_id" : "1483500",
+    "date_published" : "2017-06-09T00:00:00.000Z",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "http://hdl.handle.net/11250/2496866"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1016/j.jocrd.2017.06.002"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "A long-term follow-up of group behavioral therapy for obsessive-compulsive disorder in a general outpatient clinic in Norway"
+    },
+    "year_published" : "2017",
+    "url" : "https://api.cristin.no/v2/results/1483500",
+    "journal" : {
+      "name" : "Journal of Obsessive-Compulsive and Related Disorders"
+    },
+    "pages" : {
+      "from" : "59",
+      "to" : "64"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Journal of Obsessive-Compulsive and Related Disorders"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1476497/contributors"
+    },
+    "cristin_result_id" : "1476497",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "http://hdl.handle.net/11250/2496865"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1016/j.jocrd.2017.01.005"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "ACT-enhanced behavior therapy in group format for Trichotillomania: An effectiveness study"
+    },
+    "year_published" : "2017",
+    "url" : "https://api.cristin.no/v2/results/1476497",
+    "journal" : {
+      "name" : "Journal of Obsessive-Compulsive and Related Disorders"
+    },
+    "pages" : {
+      "from" : "109",
+      "to" : "116"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Psychological Reports"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1466656/contributors"
+    },
+    "cristin_result_id" : "1466656",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1177/0033294117699820"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Negative life events, social support, and self-efficacy in anxious adolescents."
+    },
+    "year_published" : "2017",
+    "url" : "https://api.cristin.no/v2/results/1466656",
+    "journal" : {
+      "name" : "Psychological Reports"
+    },
+    "pages" : {
+      "from" : "609",
+      "to" : "626"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Trials"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1456181/contributors"
+    },
+    "cristin_result_id" : "1456181",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1186/s13063-017-1831-9"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "School-based cognitive behavioral interventions for anxious youth: study protocol for a randomized controlled trial."
+    },
+    "year_published" : "2017",
+    "url" : "https://api.cristin.no/v2/results/1456181",
+    "journal" : {
+      "name" : "Trials",
+      "publisher" : {
+        "name" : "BioMed Central (BMC)",
+        "url" : "http://www.biomedcentral.com/"
+      }
+    },
+    "pages" : {
+      "from" : "1",
+      "to" : "11",
+      "count" : "11"
+    }
+  }, {
+    "category" : {
+      "code" : "CHAPTER",
+      "name" : {
+        "en" : "Chapter"
+      }
+    },
+    "channel" : {
+      "title" : "Springer"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1451724/contributors"
+    },
+    "cristin_result_id" : "1451724",
+    "original_language" : "en",
+    "title" : {
+      "en" : "Lessons learned from the implementation of a Feedback System in Couple and Family Therapy."
+    },
+    "year_published" : "2017",
+    "url" : "https://api.cristin.no/v2/results/1451724",
+    "part_of" : {
+      "url" : "https://api.cristin.no/v2/persons/1451692"
+    },
+    "pages" : {
+      "from" : "211",
+      "to" : "226"
+    }
+  }, {
+    "category" : {
+      "code" : "LETTEREDITOR",
+      "name" : {
+        "en" : "Letter to the editor"
+      }
+    },
+    "channel" : {
+      "title" : "Psychotherapy and Psychosomatics"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1323224/contributors"
+    },
+    "cristin_result_id" : "1323224",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1159/000441361"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "University of Rhode Island Change Assessment as Predictor of Treatment Outcome and Dropout in Outpatients with Obsessive-Compulsive Disorder Treated with Exposure and Response Prevention"
+    },
+    "year_published" : "2016",
+    "url" : "https://api.cristin.no/v2/results/1323224",
+    "journal" : {
+      "name" : "Psychotherapy and Psychosomatics"
+    },
+    "pages" : {
+      "from" : "119",
+      "to" : "120"
+    }
+  }, {
+    "category" : {
+      "code" : "CHAPTERACADEMIC",
+      "name" : {
+        "en" : "Academic chapter/article/Conference paper"
+      }
+    },
+    "channel" : {
+      "title" : "Universitetsforlaget"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1343176/contributors"
+    },
+    "cristin_result_id" : "1343176",
+    "original_language" : "no",
+    "title" : {
+      "no" : "Virksom behandling for barn og unge med tvangslidelse"
+    },
+    "year_published" : "2015",
+    "url" : "https://api.cristin.no/v2/results/1343176",
+    "part_of" : {
+      "url" : "https://api.cristin.no/v2/persons/1233437"
+    },
+    "pages" : {
+      "from" : "204",
+      "to" : "212"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Fokus på familien"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1300527/contributors"
+    },
+    "cristin_result_id" : "1300527",
+    "original_language" : "no",
+    "title" : {
+      "no" : "Utprøving av systematisk tilbakemelding i par- og familieterapi. Barrierer og utfordringer."
+    },
+    "year_published" : "2015",
+    "url" : "https://api.cristin.no/v2/results/1300527",
+    "journal" : {
+      "name" : "Fokus på familien",
+      "publisher" : {
+        "name" : "Universitetsforlaget",
+        "place" : "Oslo",
+        "url" : "http://www.universitetsforlaget.no/"
+      }
+    },
+    "pages" : {
+      "from" : "292",
+      "to" : "312"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "The Cognitive Behaviour Therapist"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1297033/contributors"
+    },
+    "cristin_result_id" : "1297033",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1017/S1754470X15000719"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Interpersonal style in obsessive compulsive disorder"
+    },
+    "year_published" : "2015",
+    "url" : "https://api.cristin.no/v2/results/1297033",
+    "journal" : {
+      "name" : "The Cognitive Behaviour Therapist",
+      "publisher" : {
+        "name" : "Cambridge University Press",
+        "url" : "http://www.cambridge.org"
+      }
+    },
+    "pages" : {
+      "count" : "17"
+    }
+  }, {
+    "category" : {
+      "code" : "LECTURE",
+      "name" : {
+        "en" : "Lecture"
+      }
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1275821/contributors"
+    },
+    "cristin_result_id" : "1275821",
+    "original_language" : "no",
+    "title" : {
+      "no" : "Eksponering og atferdseksperimenter"
+    },
+    "year_published" : "2015",
+    "url" : "https://api.cristin.no/v2/results/1275821",
+    "organiser" : "RKBU Vest, Uni Research Helse",
+    "event" : {
+      "name" : "LIST-samling vår 2015",
+      "location" : "Bergen, RKBU Vest",
+      "date_from" : "2015-03-09T00:00:00.000Z",
+      "date_to" : "2015-03-11T00:00:00.000Z",
+      "arranged_by" : {
+        "name" : "RKBU Vest, Uni Research Helse"
+      }
+    }
+  }, {
+    "category" : {
+      "code" : "ACADEMICLECTURE",
+      "name" : {
+        "en" : "Academic lecture"
+      }
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1257390/contributors"
+    },
+    "cristin_result_id" : "1257390",
+    "original_language" : "en",
+    "title" : {
+      "en" : "School Based, Early Intervention For  Anxious Youth :  \r\nAn example of primary care psychology in Norway  \r\n"
+    },
+    "year_published" : "2015",
+    "url" : "https://api.cristin.no/v2/results/1257390",
+    "organiser" : "European Psychology Association",
+    "event" : {
+      "name" : "European Congress of Psychology",
+      "location" : "Milano",
+      "date_from" : "2015-07-08T00:00:00.000Z",
+      "date_to" : "2015-07-10T00:00:00.000Z",
+      "arranged_by" : {
+        "name" : "European Psychology Association"
+      }
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "BMC Psychiatry"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1245623/contributors"
+    },
+    "cristin_result_id" : "1245623",
+    "links" : [ {
+      "url_type" : "ARKIV",
+      "url" : "http://hdl.handle.net/11250/2393054"
+    }, {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1186/s12888-015-0502-1"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Psychotic and schizotypal symptoms in non-psychotic patients with obsessive-compulsive disorder"
+    },
+    "year_published" : "2015",
+    "url" : "https://api.cristin.no/v2/results/1245623",
+    "journal" : {
+      "name" : "BMC Psychiatry",
+      "publisher" : {
+        "name" : "BioMed Central (BMC)",
+        "url" : "http://www.biomedcentral.com/"
+      }
+    },
+    "pages" : {
+      "count" : "7"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Journal of Obsessive-Compulsive and Related Disorders"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1235923/contributors"
+    },
+    "cristin_result_id" : "1235923",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1016/j.jocrd.2015.03.002"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Symptoms of health anxiety in obsessive-compulsive disorder: Relationship with treatment outcome and metacognition"
+    },
+    "year_published" : "2015",
+    "url" : "https://api.cristin.no/v2/results/1235923",
+    "journal" : {
+      "name" : "Journal of Obsessive-Compulsive and Related Disorders"
+    },
+    "pages" : {
+      "from" : "76",
+      "to" : "81"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Journal of Cognitive Psychotherapy"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1169540/contributors"
+    },
+    "cristin_result_id" : "1169540",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1891/0889-8391.29.2.106"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Thought content and appraisals in cognitive behavior therapy for obsessive-compulsive disorder"
+    },
+    "year_published" : "2015",
+    "url" : "https://api.cristin.no/v2/results/1169540",
+    "journal" : {
+      "name" : "Journal of Cognitive Psychotherapy",
+      "publisher" : {
+        "name" : "Springer",
+        "url" : "http://www.springer.com/"
+      }
+    },
+    "pages" : {
+      "from" : "106",
+      "to" : "115"
+    }
+  }, {
+    "category" : {
+      "code" : "ACADEMICLECTURE",
+      "name" : {
+        "en" : "Academic lecture"
+      }
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1213272/contributors"
+    },
+    "cristin_result_id" : "1213272",
+    "original_language" : "en",
+    "title" : {
+      "en" : "New Group Interventions for Adolescents"
+    },
+    "year_published" : "2014",
+    "url" : "https://api.cristin.no/v2/results/1213272",
+    "organiser" : "European Association for Behavioural & Cognitive Therapies",
+    "event" : {
+      "name" : "44th Congress of the European Association for Behavioural & Cognitive Therapies",
+      "location" : "The Hague",
+      "date_from" : "2014-09-10T00:00:00.000Z",
+      "date_to" : "2014-09-13T00:00:00.000Z",
+      "arranged_by" : {
+        "name" : "European Association for Behavioural & Cognitive Therapies"
+      }
+    }
+  }, {
+    "category" : {
+      "code" : "POSTER",
+      "name" : {
+        "en" : "Poster"
+      }
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1193138/contributors"
+    },
+    "cristin_result_id" : "1193138",
+    "original_language" : "no",
+    "title" : {
+      "no" : "LIST-prosjektet: Lav-intensiv versus standard kognitiv atferdsterapi for engstelige ungdom"
+    },
+    "year_published" : "2014",
+    "url" : "https://api.cristin.no/v2/results/1193138",
+    "event" : {
+      "name" : "Schizofrenidagene i Stavanger",
+      "location" : "Stavanger",
+      "date_from" : "2014-11-06T00:00:00.000Z",
+      "date_to" : "2014-11-07T00:00:00.000Z"
+    }
+  }, {
+    "category" : {
+      "code" : "ACADEMICLECTURE",
+      "name" : {
+        "en" : "Academic lecture"
+      }
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1170842/contributors"
+    },
+    "cristin_result_id" : "1170842",
+    "original_language" : "en",
+    "title" : {
+      "en" : "Low-intesity for Youths who Dare"
+    },
+    "year_published" : "2014",
+    "url" : "https://api.cristin.no/v2/results/1170842",
+    "organiser" : "EABCT",
+    "event" : {
+      "name" : "EABCT congress 2014",
+      "location" : "The Hague",
+      "date_from" : "2014-09-10T00:00:00.000Z",
+      "date_to" : "2014-09-13T00:00:00.000Z",
+      "arranged_by" : {
+        "name" : "EABCT"
+      }
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Behaviour Research and Therapy"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1169205/contributors"
+    },
+    "cristin_result_id" : "1169205",
+    "date_published" : "2014-10-30T00:00:00.000Z",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1016/j.brat.2014.10.007"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "A pilot randomized controlled trial of videoconference-assisted treatment for obsessive-compulsive disorder"
+    },
+    "year_published" : "2014",
+    "url" : "https://api.cristin.no/v2/results/1169205",
+    "journal" : {
+      "name" : "Behaviour Research and Therapy",
+      "publisher" : {
+        "name" : "Elsevier",
+        "url" : "http://www.elsevier.com/"
+      }
+    },
+    "pages" : {
+      "from" : "162",
+      "to" : "168"
+    }
+  }, {
+    "category" : {
+      "code" : "ACADEMICLECTURE",
+      "name" : {
+        "en" : "Academic lecture"
+      }
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1075890/contributors"
+    },
+    "cristin_result_id" : "1075890",
+    "original_language" : "en",
+    "title" : {
+      "en" : "Videoconferencing Treatment of Obsessive-Compulsive Disorder: Preliminary Findings from a Controlled Trial"
+    },
+    "year_published" : "2013",
+    "url" : "https://api.cristin.no/v2/results/1075890",
+    "organiser" : "European Association for Behavioural and Cognitive Therapies",
+    "event" : {
+      "name" : "43rd Annual Congress: European Association for Behavioural and Cognitive Therapies",
+      "location" : "Marrakech",
+      "date_from" : "2013-09-25T00:00:00.000Z",
+      "date_to" : "2013-09-28T00:00:00.000Z",
+      "arranged_by" : {
+        "name" : "European Association for Behavioural and Cognitive Therapies"
+      }
+    }
+  }, {
+    "category" : {
+      "code" : "ACADEMICLECTURE",
+      "name" : {
+        "en" : "Academic lecture"
+      }
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/1075739/contributors"
+    },
+    "cristin_result_id" : "1075739",
+    "original_language" : "no",
+    "title" : {
+      "no" : "E-terapi for tvangslidelser"
+    },
+    "year_published" : "2013",
+    "url" : "https://api.cristin.no/v2/results/1075739",
+    "organiser" : "Norsk Forening for Kognitiv Terapi/Norsk OCD Forening Ananke",
+    "event" : {
+      "name" : "Nasjonale OCD kongress",
+      "location" : "Gardemoen",
+      "date_from" : "2013-08-22T00:00:00.000Z",
+      "date_to" : "2013-08-24T00:00:00.000Z",
+      "arranged_by" : {
+        "name" : "Norsk Forening for Kognitiv Terapi/Norsk OCD Forening Ananke"
+      }
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Journal of Anxiety Disorders"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/863263/contributors"
+    },
+    "cristin_result_id" : "863263",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1016/j.janxdis.2011.10.009"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Videoconference- and cell phone-based cognitive-behavioral therapy of obsessive-compulsive disorder: A case series"
+    },
+    "year_published" : "2012",
+    "url" : "https://api.cristin.no/v2/results/863263",
+    "journal" : {
+      "name" : "Journal of Anxiety Disorders",
+      "publisher" : {
+        "name" : "Elsevier",
+        "url" : "http://www.elsevier.com/"
+      }
+    },
+    "pages" : {
+      "from" : "158",
+      "to" : "164"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Behaviour Research and Therapy"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/846496/contributors"
+    },
+    "cristin_result_id" : "846496",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1016/j.brat.2011.08.007"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "The role of early maladaptive schemas in predicting exposure and response prevention outcome for obsessive-compulsive disorder"
+    },
+    "year_published" : "2011",
+    "url" : "https://api.cristin.no/v2/results/846496",
+    "journal" : {
+      "name" : "Behaviour Research and Therapy",
+      "publisher" : {
+        "name" : "Elsevier",
+        "url" : "http://www.elsevier.com/"
+      }
+    },
+    "pages" : {
+      "from" : "781",
+      "to" : "788"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Behaviour Research and Therapy"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/340208/contributors"
+    },
+    "cristin_result_id" : "340208",
+    "links" : [ {
+      "url_type" : "DOI",
+      "url" : "https://doi.org/10.1016/j.brat.2010.03.005"
+    } ],
+    "original_language" : "en",
+    "title" : {
+      "en" : "Behavioural group therapy for obsessive–compulsive disorder in Norway. An open community-based trial"
+    },
+    "year_published" : "2010",
+    "url" : "https://api.cristin.no/v2/results/340208",
+    "journal" : {
+      "name" : "Behaviour Research and Therapy",
+      "publisher" : {
+        "name" : "Elsevier",
+        "url" : "http://www.elsevier.com/"
+      }
+    },
+    "pages" : {
+      "from" : "547",
+      "to" : "554"
+    }
+  }, {
+    "category" : {
+      "code" : "ARTICLE",
+      "name" : {
+        "en" : "Academic article"
+      }
+    },
+    "channel" : {
+      "title" : "Tidsskrift for kognitiv terapi"
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/350261/contributors"
+    },
+    "cristin_result_id" : "350261",
+    "original_language" : "no",
+    "title" : {
+      "no" : "Kan kognitiv atferdsterapi bli tilgjengelig for flere gjennom ny teknologi?"
+    },
+    "year_published" : "2009",
+    "url" : "https://api.cristin.no/v2/results/350261",
+    "journal" : {
+      "name" : "Tidsskrift for kognitiv terapi"
+    },
+    "pages" : {
+      "from" : "7",
+      "to" : "9"
+    }
+  }, {
+    "category" : {
+      "code" : "ACADEMICLECTURE",
+      "name" : {
+        "en" : "Academic lecture"
+      }
+    },
+    "contributors" : {
+      "url" : "https://api.cristin.no/v2/results/254464/contributors"
+    },
+    "cristin_result_id" : "254464",
+    "original_language" : "en",
+    "title" : {
+      "en" : "ERP therapy for OCD administered through the use of videoconferencing and cellphones only: A pilot study in Norway"
+    },
+    "year_published" : "2009",
+    "url" : "https://api.cristin.no/v2/results/254464",
+    "organiser" : "Croatian Association for Behavioral and Cognitive Therapies",
+    "event" : {
+      "name" : "39th EABCT Annual Congress",
+      "location" : "Dubrovnik",
+      "date_from" : "2009-09-16T00:00:00.000Z",
+      "date_to" : "2009-09-19T00:00:00.000Z",
+      "arranged_by" : {
+        "name" : "Croatian Association for Behavioral and Cognitive Therapies"
+      }
+    }
+  } ]
