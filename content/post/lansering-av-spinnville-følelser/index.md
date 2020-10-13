@@ -18,3 +18,4 @@ image:
 Vi vil med glede meddele at Spinnville følelser lanseres 20. oktober. 
 
 Du kan teste nettsiden her: [spinnvillefolelser.abup.no](spinnvillefolelser.abup.no)
+<ul>

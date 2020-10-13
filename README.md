@@ -13,7 +13,7 @@ Dette er en testside som utvikles for abup kristiansand.
   - [x] Kan legges ut via file manager på abup.no 
   - [ ] Andre bedre løsninger ? 
 
-- [ ] Legge til link til Friluftsterapi
+- [x] Legge til link til Friluftsterapi
 
 - [ ] Se på https://api.cristin.no/ og se om det går an å hente ut filtrerte søk for å vise publikasjonene til hver forsker, evt antall publikasjoner hitill (totalt eller i år) mm. 
 - [ ] Finne ut hvordan man kan legge til publications. 

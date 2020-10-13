@@ -12,4 +12,3 @@ superuser: false
 user_groups:
   - Researchers
 ---
-[CRISTIN](https://app.cristin.no/persons/show.jsf?id=29860)
