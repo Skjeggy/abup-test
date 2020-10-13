@@ -1,0 +1,706 @@
+{
+  "collections": {},
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "localeDateOrder": "mdy",
+    "options": {
+      "Normalize": false,
+      "exportFileData": false,
+      "exportNotes": false,
+      "keepUpdated": false
+    },
+    "preferences": {
+      "DOIandURL": "both",
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 1,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "autoPinDelay": 0,
+      "automaticTags": true,
+      "auxImport": false,
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cacheFlushInterval": 5,
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "[auth:lower][shorttitle3_3][year]",
+      "citeprocNoteCitekey": false,
+      "csquotes": "",
+      "debugLogDir": "",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCSL": true,
+      "extraMergeCitekeys": true,
+      "extraMergeTeX": true,
+      "git": "config",
+      "ignorePostscriptErrors": true,
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importSentenceCase": "on+guess",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "newTranslatorsAskRestart": true,
+      "parseParticles": true,
+      "platform": "win",
+      "postscript": "",
+      "postscriptOverride": "",
+      "qualityReport": false,
+      "quickCopyMode": "latex",
+      "quickCopyPandocBrackets": false,
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "strings": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,eprint,verba,verbb,verbc,groups",
+      "warnBulkModify": 10,
+      "warnTitleCased": false,
+      "workers": 0
+    }
+  },
+  "items": [
+    {
+      "attachments": [
+        {
+          "dateAdded": "2020-10-13T19:20:20Z",
+          "dateModified": "2020-10-13T19:20:20Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\TRF39EI3\\Vogel.html",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/TRF39EI3"
+        },
+        {
+          "dateAdded": "2020-10-13T19:20:21Z",
+          "dateModified": "2020-10-13T19:20:21Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\LAKAVYA2\\2643361.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/LAKAVYA2"
+        }
+      ],
+      "citationKey": "haalandWhereDidMy2019",
+      "citekey": "haalandWhereDidMy2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Aashild Tellefsen",
+          "lastName": "Haaland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gunvor",
+          "lastName": "Launes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tor",
+          "lastName": "Sunde"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joseph A.",
+          "lastName": "Himle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Patrick A.",
+          "lastName": "Vogel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vegard Øksendal",
+          "lastName": "Haaland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Liv Tveit",
+          "lastName": "Walseth"
+        }
+      ],
+      "date": "2019",
+      "dateAdded": "2020-10-13T19:20:19Z",
+      "dateModified": "2020-10-13T19:20:21Z",
+      "itemID": 31,
+      "itemType": "journalArticle",
+      "key": "K3ZK6ESF",
+      "libraryCatalog": "Google Scholar",
+      "libraryID": 1,
+      "notes": [],
+      "publicationTitle": "Scandinavian Psychologist",
+      "relations": [],
+      "select": "zotero://select/library/items/K3ZK6ESF",
+      "shortTitle": "Where did my OCD come from?",
+      "tags": [],
+      "title": "Where did my OCD come from? A qualitative exploratory study",
+      "uri": "http://zotero.org/users/local/7Kx2roxe/items/K3ZK6ESF",
+      "version": 0,
+      "volume": "6"
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2020-10-13T19:20:21Z",
+          "dateModified": "2020-10-13T19:20:21Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\YI4AXP37\\Zahl-Olsen - 2020 - Investigating couple relationships and change duri.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/YI4AXP37"
+        },
+        {
+          "dateAdded": "2020-10-13T19:20:21Z",
+          "dateModified": "2020-10-13T19:20:21Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\47RI6B8M\\2655899.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/47RI6B8M"
+        }
+      ],
+      "citationKey": "zahl-olsenInvestigatingCoupleRelationships2020",
+      "citekey": "zahl-olsenInvestigatingCoupleRelationships2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Rune",
+          "lastName": "Zahl-Olsen"
+        }
+      ],
+      "date": "2020",
+      "dateAdded": "2020-10-13T19:20:19Z",
+      "dateModified": "2020-10-13T19:20:21Z",
+      "extra": "Publisher: 07 Media",
+      "itemID": 32,
+      "itemType": "journalArticle",
+      "key": "D6QTS6SW",
+      "libraryCatalog": "Google Scholar",
+      "libraryID": 1,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/library/items/D6QTS6SW",
+      "shortTitle": "Investigating couple relationships and change during couple and family therapy",
+      "tags": [],
+      "title": "Investigating couple relationships and change during couple and family therapy: A specific focus on domestic violence and work functioning",
+      "uri": "http://zotero.org/users/local/7Kx2roxe/items/D6QTS6SW",
+      "version": 0
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2020-10-13T19:20:22Z",
+          "dateModified": "2020-10-13T19:20:22Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\UFK4MPJL\\S0890856720300010.html",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/UFK4MPJL"
+        }
+      ],
+      "citationKey": "hauglandEffectivenessBriefStandard2020",
+      "citekey": "hauglandEffectivenessBriefStandard2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Bente Storm Mowatt",
+          "lastName": "Haugland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "\\AAshild Tellefsen",
+          "lastName": "Haaland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Valborg",
+          "lastName": "Baste"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jon Fauskanger",
+          "lastName": "Bjaastad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Asle",
+          "lastName": "Hoffart"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ronald M.",
+          "lastName": "Rapee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Solfrid",
+          "lastName": "Raknes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joseph A.",
+          "lastName": "Himle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elisabeth",
+          "lastName": "Husabø"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gro Janne",
+          "lastName": "Wergeland"
+        }
+      ],
+      "date": "2020",
+      "dateAdded": "2020-10-13T19:20:19Z",
+      "dateModified": "2020-10-13T19:20:21Z",
+      "extra": "Publisher: Elsevier",
+      "itemID": 33,
+      "itemType": "journalArticle",
+      "key": "4NRQYXW6",
+      "libraryCatalog": "Google Scholar",
+      "libraryID": 1,
+      "notes": [],
+      "publicationTitle": "Journal of the American Academy of Child & Adolescent Psychiatry",
+      "relations": [],
+      "select": "zotero://select/library/items/4NRQYXW6",
+      "shortTitle": "Effectiveness of Brief and Standard School-Based Cognitive-Behavioral Interventions for Adolescents With Anxiety",
+      "tags": [],
+      "title": "Effectiveness of Brief and Standard School-Based Cognitive-Behavioral Interventions for Adolescents With Anxiety: A Randomized Noninferiority Study",
+      "uri": "http://zotero.org/users/local/7Kx2roxe/items/4NRQYXW6",
+      "version": 0
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2020-10-13T19:20:22Z",
+          "dateModified": "2020-10-13T19:20:22Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\PRUUPUSM\\Waagestad and Mortensen - 2019 - Fosterforeldres erfaringer knyttet til veiledning .pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/PRUUPUSM"
+        },
+        {
+          "dateAdded": "2020-10-13T19:20:22Z",
+          "dateModified": "2020-10-13T19:20:22Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\RCCVLHJV\\2627840.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/RCCVLHJV"
+        }
+      ],
+      "citationKey": "waagestadFosterforeldresErfaringerKnyttet2019",
+      "citekey": "waagestadFosterforeldresErfaringerKnyttet2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kristina",
+          "lastName": "Waagestad"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trude",
+          "lastName": "Mortensen"
+        }
+      ],
+      "date": "2019",
+      "dateAdded": "2020-10-13T19:20:19Z",
+      "dateModified": "2020-10-13T19:20:21Z",
+      "itemID": 34,
+      "itemType": "thesis",
+      "key": "G7V6S55A",
+      "libraryCatalog": "Google Scholar",
+      "libraryID": 1,
+      "notes": [],
+      "publisher": "Universitetet i Agder; University of Agder",
+      "relations": [],
+      "select": "zotero://select/library/items/G7V6S55A",
+      "shortTitle": "Fosterforeldres erfaringer knyttet til veiledning gitt av ABUP",
+      "tags": [],
+      "title": "Fosterforeldres erfaringer knyttet til veiledning gitt av ABUP: en kvalitativ studie",
+      "type": "Master's Thesis",
+      "uri": "http://zotero.org/users/local/7Kx2roxe/items/G7V6S55A",
+      "version": 0
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2020-10-13T19:20:23Z",
+          "dateModified": "2020-10-13T19:20:23Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\D7ISVIJP\\Walseth et al. - 2019 - Present in Daily Life Obsessive Compulsive Disord.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/D7ISVIJP"
+        },
+        {
+          "dateAdded": "2020-10-13T19:20:25Z",
+          "dateModified": "2020-10-13T19:20:25Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\X9FYWDAI\\08975353.2019.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/X9FYWDAI"
+        }
+      ],
+      "citationKey": "walsethPresentDailyLife2019",
+      "citekey": "walsethPresentDailyLife2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Liv Tveit",
+          "lastName": "Walseth"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gunvor",
+          "lastName": "Launes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tor",
+          "lastName": "Sunde"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ingrid",
+          "lastName": "Klovning"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joseph",
+          "lastName": "Himle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vegard Øksendal",
+          "lastName": "Haaland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "\\AAshild Tellefsen",
+          "lastName": "H\\aaland"
+        }
+      ],
+      "date": "2019",
+      "dateAdded": "2020-10-13T19:20:19Z",
+      "dateModified": "2020-10-13T19:20:21Z",
+      "extra": "Publisher: Taylor & Francis",
+      "issue": "3",
+      "itemID": 35,
+      "itemType": "journalArticle",
+      "key": "3FGW3E8C",
+      "libraryCatalog": "Google Scholar",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "185–203",
+      "publicationTitle": "Journal of Family Psychotherapy",
+      "relations": [],
+      "select": "zotero://select/library/items/3FGW3E8C",
+      "shortTitle": "Present in Daily Life",
+      "tags": [],
+      "title": "Present in Daily Life: Obsessive Compulsive Disorder and Its Impact on Family Life from the Partner’s Perspective. A Focus Group Study",
+      "uri": "http://zotero.org/users/local/7Kx2roxe/items/3FGW3E8C",
+      "version": 0,
+      "volume": "30"
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2020-10-13T19:20:29Z",
+          "dateModified": "2020-10-13T19:20:29Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\T7NF2X7K\\1467-6427.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/T7NF2X7K"
+        }
+      ],
+      "citationKey": "zahl-olsenChangeWorkFunctioning2019",
+      "citekey": "zahl-olsenChangeWorkFunctioning2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Rune",
+          "lastName": "Zahl-Olsen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "\\AAshild",
+          "lastName": "Tellefsen H\\aaland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicolay",
+          "lastName": "Gausel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bruce",
+          "lastName": "Wampold"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Terje",
+          "lastName": "Tilden"
+        }
+      ],
+      "date": "2019",
+      "dateAdded": "2020-10-13T19:20:19Z",
+      "dateModified": "2020-10-13T19:20:21Z",
+      "extra": "Publisher: Wiley Online Library",
+      "itemID": 36,
+      "itemType": "journalArticle",
+      "key": "B87AKETC",
+      "libraryCatalog": "Google Scholar",
+      "libraryID": 1,
+      "notes": [],
+      "publicationTitle": "Journal of Family Therapy",
+      "relations": [],
+      "select": "zotero://select/library/items/B87AKETC",
+      "tags": [],
+      "title": "Change in work functioning from pre-to post-treatment in feedback-informed Couple and Family Therapy in Norway",
+      "uri": "http://zotero.org/users/local/7Kx2roxe/items/B87AKETC",
+      "version": 0
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2020-10-13T19:20:30Z",
+          "dateModified": "2020-10-13T19:20:30Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\VHTZEW3H\\Seip - 2020 - Playing our way Participation, recognition and cr.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/VHTZEW3H"
+        },
+        {
+          "dateAdded": "2020-10-13T19:20:30Z",
+          "dateModified": "2020-10-13T19:20:30Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\VP4NSHG3\\79436.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/VP4NSHG3"
+        }
+      ],
+      "citationKey": "seipPlayingOurWay2020",
+      "citekey": "seipPlayingOurWay2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Hildegunn Marie Tønnessen",
+          "lastName": "Seip"
+        }
+      ],
+      "date": "2020",
+      "dateAdded": "2020-10-13T19:20:19Z",
+      "dateModified": "2020-10-13T19:20:21Z",
+      "itemID": 37,
+      "itemType": "journalArticle",
+      "key": "57D4AAX8",
+      "libraryCatalog": "Google Scholar",
+      "libraryID": 1,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/library/items/57D4AAX8",
+      "shortTitle": "Playing our way",
+      "tags": [],
+      "title": "Playing our way: Participation, recognition and creativity as resources for growing up across cultures",
+      "uri": "http://zotero.org/users/local/7Kx2roxe/items/57D4AAX8",
+      "version": 0
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2020-10-13T19:20:33Z",
+          "dateModified": "2020-10-13T19:20:33Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\G2QSRKJU\\s12888-019-2285-2.html",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/G2QSRKJU"
+        }
+      ],
+      "citationKey": "sundeEarlyMaladaptiveSchemas2019",
+      "citekey": "sundeEarlyMaladaptiveSchemas2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Tor",
+          "lastName": "Sunde"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin",
+          "lastName": "Hummelen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joseph A.",
+          "lastName": "Himle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Liv Tveit",
+          "lastName": "Walseth"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Patrick A.",
+          "lastName": "Vogel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gunvor",
+          "lastName": "Launes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vegard Øksendal",
+          "lastName": "Haaland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "\\AAshild Tellefsen",
+          "lastName": "Haaland"
+        }
+      ],
+      "date": "2019",
+      "dateAdded": "2020-10-13T19:20:19Z",
+      "dateModified": "2020-10-13T19:20:21Z",
+      "extra": "Publisher: Springer",
+      "issue": "1",
+      "itemID": 38,
+      "itemType": "journalArticle",
+      "key": "5EC8DIL8",
+      "libraryCatalog": "Google Scholar",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "318",
+      "publicationTitle": "BMC psychiatry",
+      "relations": [],
+      "select": "zotero://select/library/items/5EC8DIL8",
+      "tags": [],
+      "title": "Early maladaptive schemas impact on long-term outcome in patients treated with group behavioral therapy for obsessive-compulsive disorder",
+      "uri": "http://zotero.org/users/local/7Kx2roxe/items/5EC8DIL8",
+      "version": 0,
+      "volume": "19"
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2020-10-13T19:20:35Z",
+          "dateModified": "2020-10-13T19:20:35Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\Aerion\\Zotero\\storage\\ZTXGYGE4\\full.html",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/local/7Kx2roxe/items/ZTXGYGE4"
+        }
+      ],
+      "citationKey": "zahl-olsenPhysicalCoupleFamily2019",
+      "citekey": "zahl-olsenPhysicalCoupleFamily2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Rune",
+          "lastName": "Zahl-Olsen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nicolay",
+          "lastName": "Gausel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Agnes",
+          "lastName": "Zahl-Olsen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas Bjerregaard",
+          "lastName": "Bertelsen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aashild Tellefsen",
+          "lastName": "Haaland"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Terje",
+          "lastName": "Tilden"
+        }
+      ],
+      "date": "2019",
+      "dateAdded": "2020-10-13T19:20:19Z",
+      "dateModified": "2020-10-13T19:20:21Z",
+      "extra": "Publisher: Frontiers",
+      "itemID": 39,
+      "itemType": "journalArticle",
+      "key": "HS8RWBBW",
+      "libraryCatalog": "Google Scholar",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "2847",
+      "publicationTitle": "Frontiers in psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/HS8RWBBW",
+      "shortTitle": "Physical couple and family violence among clients seeking therapy",
+      "tags": [],
+      "title": "Physical couple and family violence among clients seeking therapy: identifiers and predictors",
+      "uri": "http://zotero.org/users/local/7Kx2roxe/items/HS8RWBBW",
+      "version": 0,
+      "volume": "10"
+    }
+  ],
+  "version": {
+    "bbt": "5.2.82",
+    "zotero": "5.0.91"
+  }
+}
