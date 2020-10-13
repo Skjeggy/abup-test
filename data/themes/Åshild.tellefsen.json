@@ -1,0 +1,1 @@
+{{ $dataJ := getJSON "https://api.cristin.no/v2/persons/29860/results" }}
