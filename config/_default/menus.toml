@@ -25,7 +25,7 @@
   weight = 60
 
 [[main]]
-  name = "abup tv"
+  name = "Abup TV"
   url = "http://tv.abup.no/"
   weight = 80
 
