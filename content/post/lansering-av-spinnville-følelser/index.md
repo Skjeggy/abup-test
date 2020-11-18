@@ -11,7 +11,7 @@ tags:
 categories:
   - ""
 image:
-  filename: spinnvill.jpg
+  filename: frykt-figur.png
   focal_point: Smart
   preview_only: false
 ---
