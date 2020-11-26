@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Velkommen!"
-  content = "For å lese mer om de forsjellige avdelingene og behandlingstilbudene ved ABUP, se under."
+  content = "For å lese mer om de forskjellige avdelingene og behandlingstilbudene ved ABUP, se under."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
