@@ -5,7 +5,8 @@ date: 2020-11-26T20:00:17.143Z
 summary: En test av en test av en test...
 draft: false
 featured: false
-authors: []
+authors:
+  - Sondre
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -25,9 +26,5 @@ Some years ago—never mind how long precisely—having little or no money in my
 ![Dragon](3rvx8ei.jpeg "en drage")
 
 ### Circumambulate the city of a dreamy Sabbath afternoon. Go from Corlears Hook to Coenties Slip, and from thence, by Whitehall, northward. What do you see?—Posted like silent sentinels all around the town, stand thousands upon thousands of mortal men fixed in ocean reveries. Some leaning against the spiles; some seated upon the pier-heads; some looking over the bulwarks of ships from China; some high aloft in the rigging, as if striving to get a still better seaward peep. But these are all landsmen; of week days pent up in lath and plaster—tied to counters, nailed to benches, clinched to desks. How then is this? Are the green fields gone? What do they here?
-
-`<iframe width="420" height="315"`\
-`src="https://www.youtube.com/embed/tgbNymZ7vqY">`\
-`</iframe>`
 
 <!--EndFragment-->
