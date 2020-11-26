@@ -39,6 +39,11 @@
   url = "https://www.friluftsterapi.com/"
   weight = 95
 
+[[main]]
+  name = "ABUP forlag"
+  url = "http://www.abup.no/utgivelser/abup-forlag/"
+  weight = 96
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
