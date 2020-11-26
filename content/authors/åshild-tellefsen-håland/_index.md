@@ -8,7 +8,7 @@ interests:
   - Tilbakemelding i par-og familieterapi, samt implementering
 superuser: false
 user_groups:
-  - Enhetsleder
+  - Principal Investigators
 ---
 
 #Bakgrunn
