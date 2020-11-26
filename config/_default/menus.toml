@@ -5,8 +5,8 @@
 
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Behandling"
+  url = "https://sshf.no/avdelinger/klinikk-for-psykisk-helse/abup"
   weight = 20
 
 [[main]]
@@ -19,10 +19,10 @@
 #  url = "#featured"
 #  weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
 
 [[main]]
   name = "Abup TV"
