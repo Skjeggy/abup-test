@@ -7,16 +7,14 @@ draft: false
 featured: false
 authors: []
 image:
-  filename: hval.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: true
   caption: "Whale whale whale, what do we have here ? "
 ---
 <!--StartFragment-->
 
-![](hval.jpg)
-
-
+![](featured.jpg)
 
 # Call me Ishmael.
 
