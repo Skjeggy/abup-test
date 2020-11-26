@@ -6,7 +6,7 @@ summary: En test av en test av en test...
 draft: false
 featured: false
 authors:
-  - Sondre
+  - sondre-sverd-rekdal
 image:
   filename: featured.jpg
   focal_point: Smart
