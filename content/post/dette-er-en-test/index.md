@@ -5,6 +5,7 @@ date: 2020-11-26T20:00:17.143Z
 summary: En test av en test av en test...
 draft: false
 featured: false
+authors: []
 image:
   filename: hval.jpg
   focal_point: Smart
