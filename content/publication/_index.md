@@ -13,10 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-
-
-# Den beste artikkelen.
-
-I dag lanseres den beste artikkelen som noen gang er skrevet. Simpelthen enestående, av og til tostående.
-
-Les mer her: <www.vg.no>
