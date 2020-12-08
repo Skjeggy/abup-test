@@ -4,14 +4,11 @@ role: Enhetsleder FoU, Ph.D og psykologspesialist i Kristiansand
 avatar_filename: avatar.jpg
 bio: 
 interests:
-  - Psykoterapiforskning  på OCD, angstlidelser
-  - Tilbakemelding i par-og familieterapi, samt implementering
+  - Psykoterapiforskning på OCD, angstlidelser
 superuser: false
 user_groups:
   - Enhetsleder
 ---
-
-#Bakgrunn
 
 Ph.D , psykologspesialist. Mottok prisen ”Årets doktorgrad i 2013” av Norsk Psykologiforening for forskning på atferdsterapeutisk gruppeterapi ved OCD (Obsessive-compulsive disorder).
 
