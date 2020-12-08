@@ -36,7 +36,7 @@
 
 [[main]]
   name = "Friluftsterapi"
-  url = "https://www.friluftsterapi.com/"
+  url = "https://friluftsterapi.netlify.app/"
   weight = 95
 
 [[main]]
