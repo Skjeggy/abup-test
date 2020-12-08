@@ -5,7 +5,10 @@ avatar_filename: avatar.jpg
 bio: Ipsum Lorem Dolem.
 interests:
   - Friluftsterapi
-social: []
+social:
+  - icon: researchgate
+    icon_pack: fa
+    link: www.researchgate.net/profile/Carina_Fernee
 superuser: false
 user_groups:
   - Researchers
