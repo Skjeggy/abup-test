@@ -7,8 +7,8 @@ interests:
   - Friluftsterapi
 social:
   - icon: researchgate
-    icon_pack: fa
-    link: www.researchgate.net/profile/Carina_Fernee
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Carina_Fernee
 superuser: false
 user_groups:
   - Researchers
