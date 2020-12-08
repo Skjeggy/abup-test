@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Velkommen!"
-  content = "For å lese mer om de forskjellige avdelingene og behandlingstilbudene ved ABUP, se under."
+  content = "Vi har mange forskjellige avdelinger og behandlingstilbud ved ABUP."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Forskning ved Sørlandet sykehus"
-  content = "For å lese mer om forskning ved Sørlandet sykehus, se under."
+  content = "Det er et aktivt forskningsmiljø ved Sørlandet sykehus."
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -51,7 +51,7 @@ height = ""
 
 [[item]]
   title = "Spinnville føelser"
-  content = "For å se vårt nylig lanserte prosjekt, spinnville følelser, se under."
+  content = "Vi har nylig lansert en ny plattform for å lære om følelser: spinnville følelser!"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
@@ -61,6 +61,6 @@ height = ""
     # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Les mer her"
+  cta_label = "Prøv den her!"
   cta_url = "https://spinnvillefolelser.abup.no/"
 +++

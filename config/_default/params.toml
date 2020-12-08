@@ -93,21 +93,15 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Egsveien 100", city = "Kristiansand", region = "Agder", postcode = "4615", country = "Norge", country_code = "NO"}
+address = {street = "Egsveien 100", city = "Kristiansand", postcode = "4615"}
 
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "58.164732", longitude = "7.984805"}
 
 # Directions for visitors to locate you.
-directions = "Gå inn døren og henvend deg i 2. etasje"
+# directions = "Gå inn døren og henvend deg i 2. etasje"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Mandag til fredag, 08:00 - 15:00 "]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
