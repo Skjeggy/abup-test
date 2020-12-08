@@ -5,6 +5,6 @@ avatar_filename: teacher-3.jpg
 bio: Den viseste værten.
 superuser: false
 user_groups:
-  - Administration
+  - Rådgivere
 ---
 ipsum lorem dolem.

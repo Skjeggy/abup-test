@@ -11,5 +11,5 @@ social:
     link: https://www.researchgate.net/profile/Carina_Fernee
 superuser: false
 user_groups:
-  - Researchers
+  - Forskere
 ---
