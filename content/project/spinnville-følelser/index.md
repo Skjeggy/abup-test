@@ -1,6 +1,6 @@
 ---
 title: Spinnville følelser
-subtitle: Et læringsopplegg om følelser for barn i barneskolen
+subtitle: Et læringsopplegg om følelser for barn i barneskolen.
 date: 2020-10-07T07:56:02.523Z
 draft: false
 featured: true
