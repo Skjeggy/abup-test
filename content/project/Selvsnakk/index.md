@@ -12,7 +12,6 @@ authors:
   - sondre-sverd-rekdal
 url_video: ""
 featured: true
-external_link: "#"
 url_slides: ""
 tags: null
 links: []
